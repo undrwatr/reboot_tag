@@ -1,1 +1,3 @@
 This is a script I created to allow my HD users to give themselves elevated privileges for a store and perform a reboot. You have to already have given the user the reboot tag with admin privileges for them to be able to use this.
+
+author: Joe Jenkins
